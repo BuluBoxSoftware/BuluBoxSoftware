@@ -1,4 +1,4 @@
-- 👋 I’m a software and Robotics developer for Bulu
+- 👋 I’m a software and Robotics Developer for Bulu
 - 👀 I’m interested in creating new technology, robotics and automation 
 - 🌱 I’m currently learning how to improve 3PL logistics, software development and innovating existing technology’s
 - 💞️ I’m looking to collaborate on new existing technologies with Bulu 
