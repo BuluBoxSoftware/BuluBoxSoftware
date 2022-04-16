@@ -1,3 +1,4 @@
+
 # Zebra Programming Language
 
 #### What is ZPL (Zebra programming Language)?
@@ -60,7 +61,7 @@ Zebra programming Language extension is .ZPL
 ^XZ Code Ends<br>
 
 #### Results
-Label.png
+![result](Label.png)
 #### References:  
 
 
