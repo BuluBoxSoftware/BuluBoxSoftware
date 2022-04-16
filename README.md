@@ -18,46 +18,46 @@ Zebra programming Language extension is .ZPL
  
 #### Code Example
 
-^XA Code Begins 
-^FX Top section with logo, name and address.
-^CF0,60
-^FO50,50^GB100,100,100^FS
-^FO75,75^FR^GB100,100,100^FS
-^FO93,93^GB40,40,40^FS
-^FO220,50^FD BULU BOX^FS
-^CF0,30
-^FO220,115^FD4000 Products^FS
-^FO220,155^FD5240 S 19th St, Lincoln, NE 68512^FS
-^FO220,195^FDUnited States (USA)^FS
-^FO50,250^GB700,3,3^FS
-
-^FX Second section with recipient address and permit information.
-^CFA,30
-^FO50,300^FDMarcus Quevedo^FS
-^FO50,340^FD6001 Dodge St
-^FS
-^FO50,380^FDOmaha, NE 68182^FS
-^FO50,420^FDUnited States (USA)^FS
-^CFA,15
-^FO600,300^GB150,150,3^FS
-^FO638,340^FDPermit^FS
-^FO638,390^FD123456^FS
-^FO50,500^GB700,3,3^FS
-
-^FX Third section with barcode.
-^BY5,2,270
-^FO100,550^BC^FD12345678^FS
-
-^FX Fourth section (the two boxes on the bottom).
-^FO50,900^GB700,250,3^FS
-^FO400,900^GB3,250,3^FS
-^CF0,40
-^FO100,960^FDCtr. X34B-1^FS
-^FO100,1010^FDREF1 BAY1^FS
-^FO100,1060^FDREF2 BAY2^FS
-^CF0,190
-^FO470,955^FDNE^FS
-^XZ Code Ends
+^XA Code Begins <br>
+^FX Top section with logo, name and address.<br>
+^CF0,60<br>
+^FO50,50^GB100,100,100^FS<br>
+^FO75,75^FR^GB100,100,100^FS<br>
+^FO93,93^GB40,40,40^FS<br>
+^FO220,50^FD BULU BOX^FS<br>
+^CF0,30<br>
+^FO220,115^FD4000 Products^FS<br>
+^FO220,155^FD5240 S 19th St, Lincoln, NE 68512^FS<br>
+^FO220,195^FDUnited States (USA)^FS<br>
+^FO50,250^GB700,3,3^FS<br>
+<br>
+^FX Second section with recipient address and permit information.<br>
+^CFA,30<br>
+^FO50,300^FDMarcus Quevedo^FS<br>
+^FO50,340^FD6001 Dodge St<br>
+^FS<br>
+^FO50,380^FDOmaha, NE 68182^FS<br>
+^FO50,420^FDUnited States (USA)^FS<br>
+^CFA,15<br>
+^FO600,300^GB150,150,3^FS<br>
+^FO638,340^FDPermit^FS<br>
+^FO638,390^FD123456^FS<br>
+^FO50,500^GB700,3,3^FS<br>
+<br>
+^FX Third section with barcode.<br>
+^BY5,2,270<br>
+^FO100,550^BC^FD12345678^FS<br>
+<br>
+^FX Fourth section (the two boxes on the bottom).<br>
+^FO50,900^GB700,250,3^FS<br>
+^FO400,900^GB3,250,3^FS<br>
+^CF0,40<br>
+^FO100,960^FDCtr. X34B-1^FS<br>
+^FO100,1010^FDREF1 BAY1^FS<br>
+^FO100,1060^FDREF2 BAY2^FS<br>
+^CF0,190<br>
+^FO470,955^FDNE^FS<br>
+^XZ Code Ends<br>
 
 #### Results
 
