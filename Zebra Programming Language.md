@@ -61,7 +61,7 @@ Zebra programming Language extension is .ZPL
 ^XZ Code Ends<br>
 
 #### Results
-![result](Label.png)
+![result](ZPL_Result_Label_Tag.png)
 #### References:  
 
 
