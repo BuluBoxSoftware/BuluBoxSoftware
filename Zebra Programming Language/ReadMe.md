@@ -1,4 +1,4 @@
-# Zebra programming Language
+# Zebra programming Language 
 
 **What is ZPL (Zebra programming Language)?**
 
