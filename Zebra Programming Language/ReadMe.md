@@ -34,8 +34,7 @@ Zebra programming Language extension is .ZPL
 ^FX Second section with recipient address and permit information.<br>
 ^CFA,30 <br>
 ^FO50,300^FDMarcus Quevedo^FS <br>
-^FO50,340^FD6001 Dodge St <br>
-^FS <br>
+^FO50,340^FD6001 Dodge St^FS <br>
 ^FO50,380^FDOmaha, NE 68182^FS <br>
 ^FO50,420^FDUnited States (USA)^FS <br>
 ^CFA,15 <br>
