@@ -67,5 +67,5 @@ Zebra programming Language extension is .ZPL
 
 1. https://www.zebra.com/us/en/support-downloads/knowledge-articles/ait/View-content-of-stored-ZPL-file-in-printer.html
 2. http://labelary.com/viewer.html
-https://www.zebra.com/content/dam/zebra_new_ia/en-us/manuals/printers/common/programming/zpl-zbi2-pm-en.pdf
+3. https://www.zebra.com/content/dam/zebra_new_ia/en-us/manuals/printers/common/programming/zpl-zbi2-pm-en.pdf
 
