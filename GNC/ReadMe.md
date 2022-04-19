@@ -18,6 +18,6 @@ Bulu runs the Customer Data File (CDF)  through the carrier’s  application pro
 **Step 5**:
 Bulu creates a Zebra Programming Langhuange (ZPL) file of the shipping label, and manually fixes the package’s endorsement.
 
-**Step 5**:
+**Step 6**:
 Bulu prints the shipping labels. Depending on the quantity of direct to customer mailing (D2C) shipments, this  step can can take several days to complete . 
 
