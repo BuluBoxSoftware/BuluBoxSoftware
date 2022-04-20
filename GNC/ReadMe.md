@@ -1,6 +1,6 @@
 # GNC Lables Process
 
-**Over view:** GNC labeling process can be catogorized in the follwinng steps:
+**Over view:** The GNC labeling process can be catogorized in the follwinng three steps:
 
 ----------------------
 
@@ -10,15 +10,13 @@
 
 **DHL:**
 
-**FedEx:**
-
  --------------------------
  
 **Diagram:**
 
 
 
-The following diagram can be viewd[3].
+The following diagram can be viewd [3].
 
 **Summary**
  
