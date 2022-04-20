@@ -4,7 +4,7 @@
 
 ----------------------
 
-**GNC:** The GNC’s CRM Team determines which customers are to be included in this quarter’s D2C mailing list.This information may include: address validation, customer communication emails, reassigning customers to different cohorts etc. GNC then sends Bulu the Customer Data File (CDF) via the SFTP. SFTP stands for SSH (or Secure) File Transfer Protocol, which usually runs on Port 22. SFTP is used to transferring files between client and server over a Secure and Encrypted Connection [1].
+**GNC:** The GNC’s CRM Team determines which customers are to be included in this quarter’s D2C mailing list.This information may include: address validation, customer communication emails, reassigning customers to different cohorts etc. GNC then sends Bulu API server the Customer Data File (CDF) via the SFTP. SFTP stands for SSH (or Secure) File Transfer Protocol, which usually runs on Port 22. SFTP is used to transferring files between client and server over a Secure and Encrypted Connection [1].
 
 **BULU:**
 
