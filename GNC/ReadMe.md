@@ -1,16 +1,16 @@
 # GNC Lables Process
 
-**Abstract:** The GNC’s CRM Team determines which customers are to be included in this quarter’s D2C mailing list.
+**Over view:** GNC labeling process can be catogorized in the follwinng steps:
 
 ----------------------
 
-**Step 1:**
+**GNC:**
 
-**Step 2:**
+**Bulu:**
 
-**Step 3:**
+**DHL:**
 
-**Step 4:**
+**Fedex:**
 
  --------------------------
  
@@ -18,9 +18,9 @@
 
 
 
-The following diagram can also be vied in [3].
+The following diagram can be viewd[3].
 
-**Conclution**
+**Summary**
  
 ---------------------------------------------
 **Refrences:**
