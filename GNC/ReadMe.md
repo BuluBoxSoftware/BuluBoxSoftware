@@ -1,7 +1,7 @@
-# GNC Lables Process
+<h1 align="center">GNC Labeling Process</h1>
 
-**Over view:** The GNC labeling process can be catogorized in the following main steps:
-
+ https://www.gnc.com/proaccess is a website hosted and managed by Bulu to support the GNC Pro Access program. The website contains a historical record of each PRO Access member’s PRO Box history.The GNC labeling process can be catogorized in the following  three main steps:
+ 
 ## Step 1
 
 **GNC:** The GNC’s customer relationship management (CRM) team determines which customers are to be included in this quarter’s direct to customer (D2C) mailing list. This information may include: address validation, customer communication emails, reassigning customers to different cohorts etc. GNC then sends Bulu API server the Customer Data File (CDF) via the SFTP. SFTP stands for SSH (or Secure) File Transfer Protocol, which usually runs on Port 22. SFTP is used to transferring files between client and server over a Secure and Encrypted Connection [1].
@@ -12,21 +12,26 @@
 
 ## Step 3
 
-
- 
-
 **DHL:**
 
- --------------------------
+
  
-**Diagram:**
 
 
 
-The following diagram can be viewd [3].
 
-**Summary:** Above is a detailed ilustration of how Gnc labels proces fucntioens from end point to end point. The diagaram ilsuattres a detailes structte of both Gnc and Bules arciheture strcutire of how the 
- 
+The following diagram can be viewd here [3].
+
+**Summary:**
+Below is a detailed illustration of how GNC labels process function operates from start point to end point. The diagram design is a detailed structure of Bulu’s, GNC and DHL architecture structure and mechanism.
+
+
+
+
+
+
+This mechanism allows us to pin point what exact process is being executed in the higharky of the diagram. The process starts on the upper left corner labeled Customers and     
+
 ---------------------------------------------
 **Refrences:**
 
@@ -35,3 +40,5 @@ The following diagram can be viewd [3].
 [3] https://lucid.app/lucidchart/19faa4a8-3f01-4ffd-9da5-ecf9060c62cc/edit?beaconFlowId=89F21EB96A193A15&invitationId=inv_2d8eed7f-ca8c-483d-808c-78b627f5b9b5&page=0_0#<br>
 [4]<br>
 [5]
+
+<h5 align="center"> Copyright (C) 2022 by BuluBox. All rights reserved</h5>
