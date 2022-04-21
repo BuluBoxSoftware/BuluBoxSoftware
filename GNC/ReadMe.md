@@ -14,7 +14,7 @@
 
 **DHL:**
 
-Below is a detailed illustration of how GNC labels process function operates from start point to end point. The diagram design is a detailed structure of Bulu’s, GNC and DHL architecture structure and mechanism. The diagram helps us accumulated the  different stages of the labeling process and gives a detailed analysis of every step of the complete GNC labeling Process.
+Below is a detailed illustration of how GNC labels process function operates from start point to end point. The diagram design is a detailed structure of Bulu’s, GNC and DHL architecture structure and mechanism. The diagram helps us accumulated the  different stages of the labeling process and gives a detailed analysis of every step of GNC labeling Process.
 
 ![](https://github.com/BuluBoxSoftware/Documentation/blob/main/GNC/Diagram.png)
 This mechanism allows us to pin point what exact process is being executed in the higharky of the diagram. The process starts on the upper left corner labeled Customers and     
