@@ -1,18 +1,11 @@
-# Zebra programming Language 
+<h2 align="center">Zebra programming Language </h2>
 
-**What is ZPL (Zebra programming Language)?**
+**ZPL (Zebra programming Language):** Is a command based programming language used by the printers as instructions to create the images printed on the labels.
+This specific program allows us to create barcodes, text and number code the extension is .ZPL<br>
 
-It is the command based programming language used by the printers as instructions to create the images printed on the labels.
-
-**Why is the ZPL (Zebra programming Language important)?**
-
-This specific program allows us to create barcodes , text and number code with ZPL 
-Zebra programming Language extension is .ZPL
-
-**How does ZPl (Zebra programming Language work) ?**
-
-* Here are some examples to practice and get familiar with ZPl (Zebra programming Language work): **http://labelary.com/viewer.html**
-* ZPL official manual guide: **https://www.zebra.com/content/dam/zebra_new_ia/en-us/manuals/printers/common/programming/zpl-zbi2-pm-en.pdf**
+Here are some examples to practice and get familiar with ZPl (Zebra programming Language work):<br>
+**http://labelary.com/viewer.html**
+**https://www.zebra.com/content/dam/zebra_new_ia/en-us/manuals/printers/common/programming/zpl-zbi2-pm-en.pdf**
 
 ------------------------------------------------------
 
