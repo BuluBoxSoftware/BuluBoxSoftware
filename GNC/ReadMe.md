@@ -24,8 +24,8 @@ This mechanism allows us to pin point what exact process is being executed in th
 
 The GNC environment then determines the cohorts. GNC sends Bulu a customer data file in CSV [1] format. It contains personal information on the customer which includes email, address, box choice etc. They send the file using STFP protocol. Bulu then provide headers for each field in the files. The CSV file includes the box type assigned to that customer and a sample for customer sample choice. Bulu then assign an ID and SKU to track the box.  SKU stands for stock-keeping unit, which is a scannable bar code, printed on product labels. The label allows vendors to automatically track the movement of inventory. SKU is composed of an alphanumeric combination of eight characters [2].
 
----------------------------------------------
-**Refrences:**
+
+## Refrences:
 
 [1] https://www.pcwdld.com/what-is-sftp-and-port-number#wbounce-modal<br>
 [2] https://github.com/BuluBoxSoftware/Documentation/tree/main/ZPL<br>
