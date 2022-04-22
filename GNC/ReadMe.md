@@ -1,6 +1,6 @@
 <h1 align="center">GNC Labeling Process</h1>
 
- https://www.gnc.com/proaccess is a website hosted and managed by Bulu to support the GNC Pro Access program. The website was created in march of 2017 and funded by both GNC and Bulu enterprise. The website contains a historical record of each PRO Access member’s PRO Box history. This record allow Bulu to create lables for each subscribtion box. The GNC labeling process can be catogorized in the following  three main steps:
+ https://www.gnc.com/proaccess is a website hosted and managed by Bulu to support the GNC Pro Access program. The website was created in march of 2017 and funded by both GNC and Bulu enterprise. The website contains a historical record of each PRO Access member’s PRO Box history. This record allow Bulu to create lables for each subscribtion box. The GNC labeling process can be catogorized in the following steps:
  
 ## Step 1
 
@@ -14,7 +14,7 @@
 
 **DHL:**
 
-Below is a detailed illustration of how GNC labels process function operates from start point to end point. The diagram design is a detailed structure of Bulu’s, GNC and DHL architecture structure and mechanism. The diagram helps us accumulated the  different stages of the labeling process and gives a detailed analysis of every step of GNC labeling Process.
+Below is a detailed illustration of how GNC labels process function operates from start point to end point. The diagram design is a detailed structure of Bulu’s, GNC and DHL architecture structure and mechanism. The diagram helps us accumulated the different stages of the labeling process and gives a detailed analysis of every step of GNC labeling Process.
 
 ![](https://github.com/BuluBoxSoftware/Documentation/blob/main/GNC/Diagram.png)
 This mechanism allows us to pin point what exact process is being executed in the higharky of the diagram. The process starts on the upper left corner labeled Customers and     
