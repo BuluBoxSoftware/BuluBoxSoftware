@@ -1,4 +1,4 @@
-<h1 align="center">GNC Labeling Process</h1>
+<h1 align="center"> GNC Labeling Technical Documment</h1>
 
  https://www.gnc.com/proaccess is a website hosted and managed by Bulu to support the GNC Pro Access program. The website was created in march of 2017 and funded by both GNC and Bulu enterprise. The website contains a historical record of each PRO Access member’s PRO Box history. This record allow Bulu to create lables for each subscribtion box. The GNC labeling process can be catogorized in the following steps:
  
