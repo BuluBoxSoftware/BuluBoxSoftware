@@ -1,1 +1,1 @@
-# Creating GNC Labels
+# Creating Labels
