@@ -11,7 +11,7 @@
 ## Step 3
 **DHL:** N/A
 
-Below is a detailed illustration of how GNC labels process function operates from start point to end point. The diagram design is a detailed structure of Bulu’s, GNC and DHL architecture structure and mechanism. The diagram helps us accumulated the different stages of the labeling process and gives a detailed analysis of every step of GNC labeling Process.
+Below is a detailed illustration of how GNC labels process function operates from start point to end point. The diagram design is a detailed structure of Bulu’s, GNC and DHL architecture structure and mechanism. The diagram helps us accumulated the different stages of the labeling process and gives a detailed analysis of every step of GNC labeling Process. For more information on the GNC labeling diagram [3]
 
 ![](https://github.com/BuluBoxSoftware/Documentation/blob/main/GNC/Diagram.png)
 
@@ -22,15 +22,15 @@ This mechanism allows us to pin point what exact process is being executed in th
   <li>Box type</li>
 </ul>  
 
-The GNC environment then determines the cohorts. GNC sends Bulu a customer data file in CSV [1] format. It contains personal information on the customer which includes email, address, box choice etc. They send the file using STFP protocol. Bulu then provide headers for each field in the files. The CSV file includes the box type assigned to that customer and a sample for customer sample choice. Bulu then assign an ID and SKU to track the box.  SKU stands for stock-keeping unit, which is a scannable bar code, printed on product labels. The label allows vendors to automatically track the movement of inventory. SKU is composed of an alphanumeric combination of eight characters [2].
+The GNC environment then determines the cohorts. GNC sends Bulu a customer data file in CSV [4] format. It contains personal information on the customer which includes email, address, box choice etc. They send the file using STFP protocol. Bulu then provide headers for each field in the files. The CSV file includes the box type assigned to that customer and a sample for customer sample choice. Bulu then assign an ID and SKU to track the box.  SKU stands for stock-keeping unit, which is a scannable bar code, printed on product labels. The label allows vendors to automatically track the movement of inventory. SKU is composed of an alphanumeric combination of eight characters [5].
 
 
-## Refrences:
+## Refrences
 
 [1] https://www.pcwdld.com/what-is-sftp-and-port-number#wbounce-modal<br>
 [2] https://github.com/BuluBoxSoftware/Documentation/tree/main/ZPL<br>
 [3] https://lucid.app/lucidchart/19faa4a8-3f01-4ffd-9da5-ecf9060c62cc/edit?beaconFlowId=89F21EB96A193A15&invitationId=inv_2d8eed7f-ca8c-483d-808c-78b627f5b9b5&page=0_0#<br>
-[4]<br>
-[5]
+[4] https://support.google.com/google-ads/answer/9004364?hl=en<br>
+[5] https://www.brightpearl.com/ecommerce-guides/understanding-skus
 
 <h5 align="center"> Copyright (C) 2022 by BuluBox. All rights reserved</h5>
