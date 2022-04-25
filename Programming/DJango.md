@@ -17,7 +17,8 @@ Django is a high-level Python web framework that encourages rapid development an
 </ul>  
 
 ## Language
-1. Python2 --version(2.0)<br>
-2. Python3 --version(3.0)<br>
 
-## Framework
+1. Python --version (2.0)<br>
+2. Python --version (3.0)<br>
+
+## FrameWork
