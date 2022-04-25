@@ -4,3 +4,14 @@ Django is a high-level Python web framework that encourages rapid development an
 
 ## Features 
 
+<ul>
+  <li>Open Source</li>
+  <li>Admin</li>
+  <li>Object Relation Mapper</li>
+  <li>Authentication</li>
+  <li>Caching</li>
+  <li>High speed</li>
+  <li>Secure</li>
+  <li>Testing</li>
+  <li>Collection of Tools</li>
+</ul>  
