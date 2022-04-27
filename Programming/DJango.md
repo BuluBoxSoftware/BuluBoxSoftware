@@ -22,6 +22,9 @@ Django is a high-level Python web framework that encourages rapid development an
 2. Python --version (3.0)<br>
 
 ## FrameWork
+
 ![](https://github.com/SoftwareBulu/TechDocumentation/blob/main/Programming/DJango_FrameWork.png)
 ## Refrences
  1. https://www.djangoproject.com/start/overview/
+ 2.
+<h5 align="center"> Copyright (C) 2022 by BuluBox. All rights reserved</h5>
