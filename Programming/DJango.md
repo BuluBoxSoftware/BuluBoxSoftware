@@ -23,7 +23,7 @@ Django is a high-level Python web framework that encourages rapid development an
 
 ## FrameWork
 
-![](https://github.com/SoftwareBulu/TechDocumentation/blob/main/Programming/DJango_FrameWork.png)
+![](https://github.com/SoftwareBulu/TechDocumentation/blob/main/Programming/Django_FrameWork.png)
 
 ## Refrences
 
