@@ -37,8 +37,9 @@ Before you create an environment make sure to have python installed. The followi
   <li> Type in cd Django to get in the directory</li>
   <li>Ones your in the corrcet directiry type in "python -m venv env" this will create a new environmen to began working</li>
 </ul>  
+
 ### Step 2 ###
-once the environment is created activate it using the command prompt:
+once the environment is created activate it using the command line:
 <ul>
   <li>env\Scripts\activate</li>
    <li>env\Scripts\activate</li>
