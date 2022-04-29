@@ -1,6 +1,6 @@
 <h1 align="center">DJango</h1>
 
-Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design with fewer code. Django is a collection of Python libs allowing you to quickly and efficiently create a quality Web application, and is suitable for both frontend and backend [1]. Django is moslty used for skilled web developers that offers functionalities and inbuilt python libraries. Thus, It is easier to build applications using the components offered in Django rather than building custom components, one such example is Bulu GNC pro website [2].
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design with fewer code. Django is a collection of Python libs allowing you to quickly and efficiently create a quality Web application, and is suitable for both frontend and backend [1]. Django is moslty used for skilled web developers that offers functionalities and inbuilt python libraries. Thus, It is easier to build applications using the components offered in Django rather than building custom components, one such example: https://www.gnc.com/proaccess.
 
 ## Features 
 
@@ -28,43 +28,53 @@ Django is a high-level Python web framework that encourages rapid development an
 ## Django Environment
 
 ### Step 1 ### 
-Before you create an environment make sure to have python installed. The following steps will allow you to create a Django Environment:
-
+Before you create an environment make sure to have python installed on your computer. The following steps will allow you to create a Django Environment:
  <ul>
   <li> Create a file in your desktop named Django to start working on a new Project / Web application<br></li>
   <li>Type in windows search bar CMD, this will open up a new command prompt</li>
   <li> Type in cd Django to get in the directory</li>
   <li> Type in cd Django to get in the directory</li>
-  <li>Ones your in the corrcet directiry type in "python -m venv env" this will create a new environmen to began working</li>
+  <li>Ones your in the corrcet directiry type in "python -m venv env" this will create a new environment to began working</li>
 </ul>  
 
 ### Step 2 ###
-once the environment is created activate it using the command line:
+once the environment is created use the following command to activate your enviroment:
 <ul>
-  <li>env\Scripts\activate</li>
-   <li>env\Scripts\activate</li>
-   <li>Ones the envioremnt is activatied Install the Dihajngo packages using the command pip install django " </li>
+  <li>"env\Scripts\activate"</li>
+   <li>Ones the environment is activated install the Django packages using the command “pip install django” </li>
   </ul>
 
+### Step 3 ###
+Create a datbase and admin account using the following command line: 
+<ul>
+    <li>"python manage.py migrate" this command will allow you to create a database</li>
+  <li>"once the database is created type "python manage.py createsuperuser" to create a username and password for administration access </li>
+  </ul>
 
-python manage.py runserver
-Ctrl+C-->stops
+### Step 4 ###
+To run the server use the following commands:
+<ul>
+  <li>"python manage.py runserver" this will run the server and give you a IP adress in your command promt</li>
+   <li>Copy and past the IP adreess in your web browser</li>
+   <li>Type /admin in the IP adress, example: 1.800.000/admin</li>
+  </ul>
 
-python -m django -- version
-django-admin-->list of commands used in django
+### Step 5 ###
 
-tree
-
-
-
-
+Additional content
+<ul>
+<li>Ones in the login page use your credentials to accesss the database</li>
+<li>"python -m django -- version" Allows you to see the version of django</li>
+<li>"django-admin" Allows you to see all the command lines for django</li>
+<li>"tree" Allows you to see the structure of the danago files you created</li>
+<li>To stop the server type "Ctrl+C" on the command promt</li>
+</ul>
 
 ## Refrences
 
  1. https://www.djangoproject.com/start/overview/
- 2. https://pro.gnc.com/login/
- 3. 
- 4. https://www.youtube.com/watch?v=LQTMqGns7Co
- 5. https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+ 2. 
+ 3. https://www.youtube.com/watch?v=LQTMqGns7Co
+ 4. https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
  
 <h5 align="center"> Copyright (C) 2022 by BuluBox. All rights reserved</h5>
