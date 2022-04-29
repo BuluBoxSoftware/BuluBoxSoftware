@@ -1,6 +1,6 @@
 <h1 align="center">DJango</h1>
 
-Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design with fewer code. Django is a collection of Python libs allowing you to quickly and efficiently create a quality Web application, and is suitable for both frontend and backend. It is moslty used for skilled web developers [1].
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design with fewer code. Django is a collection of Python libs allowing you to quickly and efficiently create a quality Web application, and is suitable for both frontend and backend [1]. Django is moslty used for skilled web developers that offers functionalities and inbuilt python libraries. Thus, It is easier to build applications using the components offered in Django rather than building custom components, one such example is Bulu GNC pro website [2].
 
 ## Features 
 
@@ -39,12 +39,12 @@ Before you create an environment make sure to have python installed. The followi
 </ul>  
 ### Step 2 ###
 once the environment is created activate it using the command prompt:
+<ul>
+  <li>env\Scripts\activate</li>
+   <li>env\Scripts\activate</li>
+   <li>Ones the envioremnt is activatied Install the Dihajngo packages using the command pip install django " </li>
+  </ul>
 
-env\Scripts\activate
-
-install the dihajngo packages using
-
-pip install django
 
 python manage.py runserver
 Ctrl+C-->stops
@@ -61,6 +61,7 @@ tree
 ## Refrences
 
  1. https://www.djangoproject.com/start/overview/
- 2. https://www.youtube.com/watch?v=LQTMqGns7Co
- 3. https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+ 2. https://pro.gnc.com/login/
+ 3. https://www.youtube.com/watch?v=LQTMqGns7Co
+ 4. https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
 <h5 align="center"> Copyright (C) 2022 by BuluBox. All rights reserved</h5>
