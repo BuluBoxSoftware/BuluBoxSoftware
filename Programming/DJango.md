@@ -27,24 +27,22 @@ Django is a high-level Python web framework that encourages rapid development an
 
 ## Django Environment
 
-Before you create an environment make sure to have python installed. The following steps to create a Django Environment are:
+### Step 1 ### 
+Before you create an environment make sure to have python installed. The following steps will allow you to create a Django Environment:
 
-Create a file in your desktop named Django to start working on a new Project or Web application<br>
-Type in windows search bar CMD, this will open up a new command prompt<br>
-Type in **cd Django** to get in that directory
-
-
-Type in python -m venv env
-
-once created activate
-
-
-
-Command promt:
+ <ul>
+  <li> Create a file in your desktop named Django to start working on a new Project / Web application<br></li>
+  <li>Type in windows search bar CMD, this will open up a new command prompt</li>
+  <li> Type in cd Django to get in the directory</li>
+  <li> Type in cd Django to get in the directory</li>
+  <li>Ones your in the corrcet directiry type in "python -m venv env" this will create a new environmen to began working</li>
+</ul>  
+### Step 2 ###
+once the environment is created activate it using the command prompt:
 
 env\Scripts\activate
 
-install packages
+install the dihajngo packages using
 
 pip install django
 
