@@ -9,7 +9,11 @@
 **BULU:** Bulu retrieves the customer data file (CDF), and assigns each customer a Box ID based on the customer’s box type preference, customer’s sample choice selection, and available inventory. The Bulu experts than run the customer data file (CDF) through the carrier’s API to generate a tracking number. Bulu then creates a zebra programming file (ZPL) [2] of the shipping label and creates a SKU code, and manually fixes the package’s endorsement. Bulu prints the shipping labels, this process can take several days to complete depending on the quantity of direct to customer(D2C) shipments. Bulu then applies the shipping labels to pre-kitted boxes or directly to boxes as they are being kitted. Bulu then palletizes labeled PRO Boxes in batches of 600-750 (depending on weight of box), which will be ready for shipment
 
 ## Step 3
-**DHL:** N/A
+**DHL:** 
+
+A Special URL is given to each printing machines example http://zebra4/dhl.php. Each URL contains a drop file folder where the labels will be dopped for printing 
+Each URL is assigned to each zebra printer. Once the URL's are assign printing labels can begin, which can take several days to complete.
+The labels are then tagged on the box manually for shipment. (This process can be automated using a device to implement the tags faster and more productivity.) 
 
 Below is a detailed illustration of how GNC labels process function operates from start point to end point. The diagram design is a detailed structure of Bulu’s, GNC and DHL architecture structure and mechanism. The diagram helps us accumulated the different stages of the labeling process and gives a detailed analysis of every step of GNC labeling Process. For more information on the GNC labeling diagram [3]
 
