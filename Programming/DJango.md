@@ -1,6 +1,6 @@
 <h1 align="center">DJango</h1>
 
-Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design with fewer code. Django is a collection of Python libs allowing quicker and efficient application, suitable for both frontend and backend developers [1]. Django is mostly used for skilled web developers that offers functionalities and inbuilt python libraries. Thus, it is easier to build applications using the components offered in Django rather than building custom components, one such example is Pro GNC website [2].
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design with fewer code. Django is a collection of Python libs allowing quicker and efficient application, suitable for both frontend and backend developers [1]. Django is mostly used for skilled web developers that offers functionalities and inbuilt python libraries. Thus, it is easier to build applications using the components offered in Django rather than building custom components, one such example is our Pro GNC website [2].
 
 ## Features 
 
