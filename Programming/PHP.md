@@ -21,6 +21,10 @@ PHP (Hypertext Preprocessor) is an open-source, interpreted, and object-oriented
 
 ## PHP Environment 
 
+### Step 1
+### Step 2
+### Step 3
+
 
 ## Refrences 
 1. https://www.php.net/manual/en/intro-whatcando.php
