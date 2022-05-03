@@ -28,7 +28,7 @@ Django is a high-level Python web framework that encourages rapid development an
 ## Django Environment
 
 ### Step 1 ### 
-Before you create an environment make sure to have python installed on your computer. The following steps will allow you to create a Django Environment in windows operating system:
+Before you create an environment make sure to have python installed on your computer. The following steps will allow you to create a Django Environment in windows operating system [3]:
  <ul>
   <li> Create a file in your desktop named Django to start working on a new Project / Web application<br></li>
   <li>Type in windows search bar CMD, this will open up a new command prompt</li>
@@ -61,7 +61,7 @@ To run the server use the following commands:
 
 ### Step 5 ###
 
-Additional content
+Additional content [5]
 <ul>
 <li>Ones in the login page use your credentials to accesss the database</li>
 <li>"python -m django -- version" Allows you to see the version of django</li>
