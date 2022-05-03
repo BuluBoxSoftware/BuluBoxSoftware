@@ -37,21 +37,21 @@ Before you create an environment make sure to have python installed on your comp
   <li>Ones your in the corrcet directiry type in "python -m venv env" this will create a new environment to began working</li>
 </ul>  
 
-### Step 2 ###
+### Step 2 
 once the environment is created use the following command to activate your enviroment:
 <ul>
   <li>"env\Scripts\activate"</li>
    <li>Ones the environment is activated install the Django packages using the command “pip install django” </li>
   </ul>
 
-### Step 3 ###
+### Step 3 
 Create a datbase and admin account using the following command line: 
 <ul>
     <li>"python manage.py migrate" this command will allow you to create a database</li>
   <li>"once the database is created type "python manage.py createsuperuser" to create a username and password for administration access </li>
   </ul>
 
-### Step 4 ###
+### Step 4 
 To run the server use the following commands:
 <ul>
   <li>"python manage.py runserver" this will run the server and give you a IP adress in your command promt</li>
@@ -59,7 +59,7 @@ To run the server use the following commands:
    <li>Type /admin in the IP adress, example: 1.800.000/admin</li>
   </ul>
 
-### Step 5 ###
+### Step 5
 
 Additional content [4]
 <ul>
