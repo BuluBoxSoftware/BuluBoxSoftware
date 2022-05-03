@@ -61,7 +61,7 @@ To run the server use the following commands:
 
 ### Step 5 ###
 
-Additional content [5]
+Additional content [4]
 <ul>
 <li>Ones in the login page use your credentials to accesss the database</li>
 <li>"python -m django -- version" Allows you to see the version of django</li>
