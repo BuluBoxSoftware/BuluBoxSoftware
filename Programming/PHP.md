@@ -22,7 +22,10 @@ PHP (Hypertext Preprocessor) is an open-source, interpreted, and object-oriented
 ## PHP Environment 
 
 ### Step 1
+Open your web browser and go to https://www.php.net/downloads.php download the file containg your
+Once downloaded extarct the file 
 ### Step 2
+
 ### Step 3
 
 
