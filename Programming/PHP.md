@@ -18,28 +18,6 @@ PHP (Hypertext Preprocessor) is an open-source, interpreted, and object-oriented
 ## Framework
 
 
-PHP Exam
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body style="margin-left: 20%; margin: 5%;">
-<form method="post" action="" name="login_form">
-<div class="form-element">
-<label>Username</label>
-<input type="text" name="username" id="username" required />
-</div>
-<br>
-<div class="form-element">
-<label>Password</label>
-<input type="password" name="password" id="password" required />
-</div>
-<br>
-<button type="submit" name="Login" value="Login">Login</button>
-</form>
-</body>
 </html>
 
 ## PHP Environment 
