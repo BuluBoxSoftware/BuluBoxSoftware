@@ -1,4 +1,4 @@
-<h2 align="center">Zebra programming Language </h2>
+<h2 align="center">Zebra Programming Language </h2>
 
 Is a command based programming language used by the printers as instructions to create the images printed on the labels.
 This specific program allows us to create barcodes, text and number code the extension is ZPL. Here are some examples to practice and get familiar with ZPl (Zebra programming Language):<br>
