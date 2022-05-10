@@ -1,2 +1,2 @@
 
-<h1 align="center"> Creating GNC Labels</h1>
+<h1 align="center"> Printing GNC Labels</h1>
