@@ -1,8 +1,7 @@
 
 <h1 align="center"> Printing GNC Labels</h1>
  
- 
- Bulu uses the zebra printers to print GNC labes. All zebra printers use a Programming Language called (ZPL) which is a command based language used by the printers as instructions to create the images printed on the labels. 
+ Bulu uses the zebra printing tecnology to print GNC labels. All zebra printers use a Programming Language called (ZPL), which is a command based language used by the printers as instructions to create the images printed on the labels. 
  
  A unique URL is given to each printing machine:
 
