@@ -24,7 +24,7 @@ The current printer zebra verison Bulu uses is ZT410 INDUSTRIAL PRINTER
 
 2. Open Printers & Scanners on your Windows machine. The printer should be auto-detected within your Printers & Scanners. Rename the printer as desired. Set the Zebra printer as the default printer. 
 
-![](ZPL.png)
+![](Calibration.png)
 
 ## References
  
