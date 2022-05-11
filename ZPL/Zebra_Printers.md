@@ -4,19 +4,20 @@
 Bulu uses the zebra printing technology to print GNC labels. All zebra printers use a Programming Language called (ZPL), which is a command-based language used by the printers as instructions to create the images printed on the labels [1]. Zebra painters use thermal technology to print, thus there is no need to replenish the printer.
  
 ## Features 
-The following features are displayed in the zebra printer homepage [2].
+The following features are displayed in the zebra printer homepage screen [2].
+<ul>
+  <li>Settings</li>
+  <li>Tools</li>
+  <li>NetWork</li>
+ <li>RFID</li>
+  <li>Languange</li>
+  <li>Sensors</li>
+   <li>Bluetooth</li>
+</ul>
 
-Settings
-Tools
-NetWork
-RFID
-Languange 
-Senosr
-Port
-Bluetooth
 ## Version
 
-The current printer zebra verison Bulu uses is ZT410 industrial Printer.
+The current verison Bulu uses is ZT410 industrial Printer.
 
 ![](ZT410_Industrial_Printer.png)
 ## Drivers
@@ -32,7 +33,7 @@ OPERATING SYSTEM: Windows 10 (32 and 64 bit), Windows 11, Windows Server 2016, W
  
 1. Automatic: Turning the zebra printer power swicth OFF and then ON again. The swicth is loactaed in the back of every prinetr. Once the printer is ON it will automatally calibate.
 
-2. Manually:
+2. Manually: Clicking on the feature senor button located in the home page then choosing sensor type as transmissive for white printing paper. For all other printing paper change the senor type to best meet its requirements. 
  
 ## Configuration
 1. Turn on the Zebra printer and connect the printer to your computer using the provided USB cord.<br>
