@@ -8,7 +8,7 @@ The following features are displayed in the zebra printer homepage [2].
 
 ## Version
 
-The current printer zebra verison Bulu uses is ZT410 INDUSTRIAL PRINTER
+The current printer zebra verison Bulu uses is ZT410 industrial Printer.
 
 ## Drivers
 
@@ -30,6 +30,7 @@ OPERATING SYSTEM: Windows 10 (32 and 64 bit), Windows 11, Windows Server 2016, W
 
 2. Open Printers & Scanners on your Windows machine. The printer should be auto-detected within your Printers & Scanners. Rename the printer as desired. Set the Zebra printer as the default printer. The following is ZPL configuration prompt 
 <br>
+
 ![](Calibration.png)
 
 ## References
