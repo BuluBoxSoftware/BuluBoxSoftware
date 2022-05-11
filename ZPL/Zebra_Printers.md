@@ -14,7 +14,7 @@ The current printer zebra verison Bulu uses is the ZT410 INDUSTRIAL PRINTER
 ## Calebrate
  There are two main methods to calebrage the zebra printer:
  
-1. Automatic:Turning the zebra printer power swicth OFF and then ON again. The swicth is loactaed in the back of every prinetr. Once the printer is ON it will automatally calibate.
+1. Automatic: Turning the zebra printer power swicth OFF and then ON again. The swicth is loactaed in the back of every prinetr. Once the printer is ON it will automatally calibate.
 
 2. Manually:
  
