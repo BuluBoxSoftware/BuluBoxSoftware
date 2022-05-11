@@ -6,6 +6,14 @@ Bulu uses the zebra printing technology to print GNC labels. All zebra printers 
 ## Features 
 The following features are displayed in the zebra printer homepage [2].
 
+Settings
+Tools
+NetWork
+RFID
+Languange 
+Senosr
+Port
+Bluetooth
 ## Version
 
 The current printer zebra verison Bulu uses is ZT410 industrial Printer.
