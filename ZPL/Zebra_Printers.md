@@ -10,6 +10,7 @@ The following features are displayed in the zebra printer homepage [2].
 
 The current printer zebra verison Bulu uses is ZT410 industrial Printer.
 
+![](ZT410_Industrial_Printer.png)
 ## Drivers
 
 ZDesigner v. 8 Driver for Windows<br>
