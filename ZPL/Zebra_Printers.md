@@ -4,7 +4,7 @@
 Bulu uses the zebra printing technology to print GNC labels. All zebra printers use a Programming Language called (ZPL), which is a command-based language used by the printers as instructions to create the images printed on the labels [1]. Zebra painters use thermal technology to print, thus there is no need to replenish the printer.
  
 ## Features 
-The following features are displayed in the zebra printer homepage screen [2].
+The following features are displayed in the zebra printer homepage screen:
 <ul>
   <li>Settings</li>
   <li>Tools</li>
@@ -17,7 +17,7 @@ The following features are displayed in the zebra printer homepage screen [2].
 
 ## Version
 
-The current verison Bulu uses is ZT410 industrial Printer.
+The current verison Bulu uses is ZT410 industrial Printer [2].
 
 ![](ZT410_Industrial_Printer.png)
 ## Drivers
