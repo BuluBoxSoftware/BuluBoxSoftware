@@ -15,10 +15,9 @@ The current printer zebra verison Bulu uses is ZT410 INDUSTRIAL PRINTER
 ZDesigner v. 8 Driver for Windows<br>
 Driver version: 8.6.4.23832<br>
 Recommended driver for use with ZebraDesigner 3.<br>
-Supports current Zebra printers (ZPL printer command language/printers running Link-OS).
-
-  Download 27 MB
+Supports current Zebra printers (ZPL printer command language/printers running Link-OS).<br>
 OPERATING SYSTEM: Windows 10 (32 and 64 bit), Windows 11, Windows Server 2016, Windows Server 2022, Windows Server 2019 (64 bit)
+
 ## Calebrate
  There are two main methods to calebrage the zebra printer:
  
@@ -26,12 +25,11 @@ OPERATING SYSTEM: Windows 10 (32 and 64 bit), Windows 11, Windows Server 2016, W
 
 2. Manually:
  
- 
 ## Configuration
 1. Turn on the Zebra printer and connect the printer to your computer using the provided USB cord.<br>
 
 2. Open Printers & Scanners on your Windows machine. The printer should be auto-detected within your Printers & Scanners. Rename the printer as desired. Set the Zebra printer as the default printer. The following is ZPL configuration prompt 
-
+<br>
 ![](Calibration.png)
 
 ## References
