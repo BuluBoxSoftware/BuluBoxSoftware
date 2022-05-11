@@ -8,7 +8,7 @@ The following features are displayed in the zebra printer homepage [2].
 
 ## Version
 
-The current printer zebra verison Bulu uses is the ZT410 INDUSTRIAL PRINTER
+The current printer zebra verison Bulu uses is ZT410 INDUSTRIAL PRINTER
 
 
 ## Calebrate
