@@ -14,6 +14,7 @@ The following features are displayed in the zebra printer homepage screen:
   <li>Bluetooth</li>
   <li>Version</li>
 </ul>
+
 ## Version
 
 The current verison Bulu uses is ZT410 industrial Printer [2].
