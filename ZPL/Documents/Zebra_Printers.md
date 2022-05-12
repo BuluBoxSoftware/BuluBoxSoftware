@@ -33,7 +33,7 @@ There are two main methods to calebrage the zebra printer:
 2. Manually: Clicking on the feature senor button located in the home page then choosing sensor type as transmissive for white printing paper. For all other printing paper change the senor type to best meet its requirements.
 
 ## Configuration
-Turn on the Zebra printer and connect the printer to your computer using the provided USB cord. Open Printers & Scanners on your Windows machine. The printer should be auto-detected within your Printers & Scanners. Rename the printer as desired. Set the Zebra printer as the default printer. The following is ZPL configuration prompt
+Turn on the Zebra printer and connect the printer to your computer using the provided USB cord. Open Printers & Scanners on your Windows machine. The printer should be auto-detected within your Printers & Scanners. Rename the printer as desired. Set the Zebra printer as the default printer.
 
 ## References
 1. https://github.com/SoftwareBulu/TechDocumentation/tree/main/ZPL
