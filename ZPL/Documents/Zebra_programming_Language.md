@@ -52,7 +52,7 @@ Is a command based programming language used by the printers as instructions to 
 
 ## Result
 <p align="center">
-(img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Images/ZPL_Label.png)
+<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Images/ZPL_Label.png>
 </p>
  ## References
 
