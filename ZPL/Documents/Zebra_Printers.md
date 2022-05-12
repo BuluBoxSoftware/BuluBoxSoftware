@@ -17,7 +17,7 @@ The following features are displayed in the zebra printer homepage screen:
 
 ## Version
 
-The current verison Bulu uses is ZT410 industrial Printer [2].
+The current verison  Bulu uses for printing lables is ZT410 industrial Printer [2].
 
 ![](https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Images/ZT410_Industrial_Printer.png)
 
