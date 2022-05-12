@@ -26,7 +26,7 @@ Open your web browser and go to https://www.php.net/downloads.php download the f
 ### Step 2
 Copy the path file and open your search bar and type “environment variable”. Click Environment Variable and under system variables click “Path” and then click “Edit". Then click on “New” and past the path file from the file program.
 ### Step 3
- 
+Open the command prompt and type “php -v” to check if the installation was successful. 
 
 ## Refrences 
 1. https://www.php.net/manual/en/intro-whatcando.php
