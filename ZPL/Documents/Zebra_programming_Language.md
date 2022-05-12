@@ -60,4 +60,4 @@ https://www.zebra.com/us/en/support-downloads/knowledge-articles/ait/View-conten
 https://www.zebra.com/content/dam/zebra_new_ia/en-us/manuals/printers/common/programming/zpl-zbi2-pm-en.pdf
 http://labelary.com/viewer.html
 
-<h1 align="center">Copyright (C) 2022 by BuluBox. All rights reserved</h1>
+<h5 align="center">Copyright (C) 2022 by BuluBox. All rights reserved</h5>
