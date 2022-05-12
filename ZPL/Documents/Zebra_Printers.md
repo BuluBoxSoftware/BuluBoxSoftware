@@ -4,16 +4,16 @@ Bulu uses the zebra printing technology to print GNC labels. All zebra printers 
 
 ## Features
 The following features are displayed in the zebra printer homepage screen:
-
-Settings
-Tools
-NetWork
-RFID
-Languange
-Sensors
-Bluetooth
-Version
-
+ <ul>
+  <li>Settings</li>
+  <li>Tools</li>
+  <li>NetWork</li>
+  <li>RFID</li>
+  <li>Languange</li>
+  <li>Sensors</li>
+  <li>Bluetooth</li>
+  <li>Version</li>
+</ul>
 ## Version
 The current verison Bulu uses is ZT410 industrial Printer [2].
 
@@ -33,12 +33,10 @@ There are two main methods to calebrage the zebra printer:
 2. Manually: Clicking on the feature senor button located in the home page then choosing sensor type as transmissive for white printing paper. For all other printing paper change the senor type to best meet its requirements.
 
 ## Configuration
-Turn on the Zebra printer and connect the printer to your computer using the provided USB cord.
-
-Open Printers & Scanners on your Windows machine. The printer should be auto-detected within your Printers & Scanners. Rename the printer as desired. Set the Zebra printer as the default printer. The following is ZPL configuration prompt
+Turn on the Zebra printer and connect the printer to your computer using the provided USB cord. Open Printers & Scanners on your Windows machine. The printer should be auto-detected within your Printers & Scanners. Rename the printer as desired. Set the Zebra printer as the default printer. The following is ZPL configuration prompt
 
 ## References
-https://github.com/SoftwareBulu/TechDocumentation/tree/main/ZPL
-https://www.zebra.com/us/en/support-downloads/printers/industrial/zt410.html
+1. https://github.com/SoftwareBulu/TechDocumentation/tree/main/ZPL
+2. https://www.zebra.com/us/en/support-downloads/printers/industrial/zt410.html
 
 Copyright (C) 2022 by BuluBox. All rights reserved
