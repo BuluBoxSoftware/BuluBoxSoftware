@@ -19,7 +19,9 @@ The following features are displayed in the zebra printer homepage screen:
 
 The current verison  Bulu uses for printing lables is ZT410 industrial Printer [2].
 
-<p align="center"> ![](https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Images/ZT410_Industrial_Printer.png) </p>
+![](https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Images/ZT410_Industrial_Printer.png)
+
+<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Images/ZT410_Industrial_Printer.png>
 
 ## Drivers
 ZDesigner v. 8 Driver for Windows
