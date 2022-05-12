@@ -51,9 +51,9 @@ Is a command based programming language used by the printers as instructions to 
 ^XZ Code Ends<br>
 
 ## Result
-
-![](https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Images/ZPL_Label.png)
-
+<p align="center">
+(img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Images/ZPL_Label.png)
+</p>
  ## References
 
 https://www.zebra.com/us/en/support-downloads/knowledge-articles/ait/View-content-of-stored-ZPL-file-in-printer.html
