@@ -27,11 +27,11 @@ Supports current Zebra printers (ZPL printer command language/printers running L
 OPERATING SYSTEM: Windows 10 (32 and 64 bit), Windows 11, Windows Server 2016, Windows Server 2022, Windows Server 2019 (64 bit)
 
 ## Calebrate
-There are two main methods to calebrage the zebra printer:
+There are two main methods to calebrating the zebra printer:
 
-1. Automatic: Turning the zebra printer power swicth OFF and then ON again. The swicth is loactaed in the back of every prinetr. Once the printer is ON it will automatally calibate.
+1. Automatic: Turning the zebra printer power swicth OFF and then ON again. The swicth is located in the back of every prinetr. Once the printer is ON it will automatedly calibate.
 
-2. Manually: Clicking on the feature senor button located in the home page then choosing sensor type as transmissive for white printing paper. For all other printing paper change the senor type to best meet its requirements.
+2. Manually: Clicking on the feature senor button located in the home page, then choosing sensor type as transmissive for white printing paper. For all other printing paper change the senor type to best meet its requirements.
 
 ## Configuration
 Turn on the Zebra printer and connect the printer to your computer using the provided USB cord. Open Printers & Scanners on your Windows machine. The printer should be auto-detected within your Printers & Scanners. Rename the printer as desired. Set the Zebra printer as the default printer.
