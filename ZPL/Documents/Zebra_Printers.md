@@ -38,6 +38,8 @@ There are two main methods to calebrating the zebra printer:
 ## Configuration
 Turn on the Zebra printer and connect the printer to your computer using the provided USB cord. Open Printers & Scanners on your Windows machine. The printer should be auto-detected within your Printers & Scanners. Rename the printer as desired. Set the Zebra printer as the default printer.
 
+![](https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Images/Configuration.png)
+
 ## References
 1. https://github.com/SoftwareBulu/TechDocumentation/tree/main/ZPL
 2. https://www.zebra.com/us/en/support-downloads/printers/industrial/zt410.html
