@@ -16,8 +16,10 @@ PHP (Hypertext Preprocessor) is an open-source, interpreted, and object-oriented
 </ul>  
 
 ## Framework
+ <p align="center">
+ <img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/Programming/Images/PHP_FrameWork.png>
+</p>
 
-![](https://github.com/SoftwareBulu/TechDocumentation/blob/main/Programming/Images/PHP_FrameWork.png)
 
 ## PHP Environment 
 
