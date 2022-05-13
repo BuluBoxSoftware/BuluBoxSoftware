@@ -18,7 +18,7 @@
 
 Each URL contains a drop file folder where the labels will be dopped for printing. Each URL is assigned to each zebra printer. Once the URL's are assign label printing can begin, which can take several days to complete.The labels are then tagged on the box manually for shipment.
 
-Below is a detailed illustration of how GNC labels process function operates from start point to end point. The diagram design is a detailed structure of Bulu’s, GNC and DHL architecture structure and mechanism. The diagram helps us accumulated the different stages of the labeling process and gives a detailed analysis of every step of GNC labeling Process. For more information on the GNC labeling diagram [3]
+Below is a detailed illustration of how GNC labels process function operates from start point to end point. The diagram design is a detailed structure of Bulu’s, GNC and DHL architecture structure and mechanism. The diagram helps us accumulated the different stages of the labeling process and gives a detailed analysis of every step of GNC labeling Process. For more information on the GNC labeling diagram [3].
 
 <img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/GNC/Images/Diagram.png>
 
