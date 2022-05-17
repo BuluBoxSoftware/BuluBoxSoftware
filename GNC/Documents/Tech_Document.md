@@ -22,7 +22,14 @@ This mechanism allows us to pin point what exact process is being executed in th
   <li>Box type</li>
 </ul>  
 
-The GNC environment then determines the cohorts. GNC sends Bulu a customer data file in CSV [4] format. It contains personal information on the customer which includes email, address, box choice etc. They send the file using STFP protocol. Bulu then provide headers for each field in the files. The CSV file includes the box type assigned to that customer and a sample for customer sample choice. Bulu then assigns a box ID and SKU to track each box.  SKU stands for stock-keeping unit, which is a scannable bar code, printed on product labels. The label allows vendors to automatically track the movement of inventory. SKU is composed of an alphanumeric combination of eight characters [5]. This process is done using ZPL extension files to generate the tracking number. Once’s this process is complete printing and pre kitting process is undertaken, this particular process can take up to several days to complete depending on the quantity of the direct to customer (D2C) shipments. Lastly palletizes and wrapping is done for the final box product to be shipped.
+The GNC environment then determines the cohorts. GNC sends Bulu a customer data file in CSV [4] format. It contains personal information on the customer which includes email, address, box choice etc. They send the file using STFP protocol. Bulu then provide headers for each field in the files. The CSV file includes the box type assigned to that customer and a sample for customer sample choice. Bulu then assigns a box ID and SKU to track each box.  SKU stands for stock-keeping unit, which is a scannable bar code, printed on product labels. The label allows vendors to automatically track the movement of inventory. SKU is composed of an alphanumeric combination of eight characters [5]. This process is done using ZPL extension files to generate the tracking number. Tp print the lables a  unique URL is given to each  zebra printing machine:
+
+ - http://zebra4/dhl.php <br>
+ - http://zebra5/dhl.php <br>
+ - http://zebra6/dhl.php <br>
+ - http://zebra7/dhl.php <br>
+
+Each URL contains a drop file folder where the labels will be dopped for printing. Each URL is assigned to each zebra printer. Once the URL's are assign label printing can begin, which can take several days to complete.The labels are then tagged on the box manually for shipment. Once’s this process is complete printing and pre kitting process is undertaken, this particular process can take up to several days to complete depending on the quantity of the direct to customer (D2C) shipments.Lastly palletizes and wrapping is done for the final box product to be shipped.
 
 ## References
 
