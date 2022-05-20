@@ -41,7 +41,7 @@ Each URL contains a drop file folder where the labels will be dopped for printin
 
 [1] https://www.pcwdld.com/what-is-sftp-and-port-number#wbounce-modal<br>
 [2] https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Documents/Zebra_programming_Language.md<br>
-[3]
+[3]<br>
 [4] https://lucid.app/lucidchart/19faa4a8-3f01-4ffd-9da5-ecf9060c62cc/edit?beaconFlowId=89F21EB96A193A15&invitationId=inv_2d8eed7f-ca8c-483d-808c-78b627f5b9b5&page=0_0#<br>
 [5] https://support.google.com/google-ads/answer/9004364?hl=en<br>
 [6] https://www.brightpearl.com/ecommerce-guides/understanding-skus
