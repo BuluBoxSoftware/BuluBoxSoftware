@@ -10,7 +10,7 @@
 
 ## Step 3
 
-**DHL:** Once Bulu has ran the CDF through DHL’s API and has tracking information, Bulu adds an endorsement to all labels titled “No Endorsement” [see DHL’s Guide to USPS Ancillary Service Endorsements for further information] [3].
+**DHL:** Once Bulu has ran the CDF through DHL’s API and has tracking information, Bulu adds an endorsement to all labels titled “No Endorsement” (see DHL’s Guide to USPS Ancillary Service Endorsements for further information) [3].
 <ul>
 <li>Packages undeliverable under 1 lb. will be destroy.</li>
 <li>Packages over 1 lb. will be sent back to sender with a $3.00 service fee.</li>
