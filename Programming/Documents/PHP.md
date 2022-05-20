@@ -24,7 +24,7 @@ PHP (Hypertext Preprocessor) is an open-source, interpreted, and object-oriented
 ## PHP Environment 
 
 ### Step 1
-Open your web browser and go to https://www.php.net/downloads.php download the file containing the operating system requirements. Once downloaded extract the file to your local C drive under the name file programs.
+Open your web browser and go to (https://www.php.net/downloads.php) download the file containing your operating system requirements. Once downloaded extract the file to your local C drive under the name file programs.
 ### Step 2
 Copy the path file and open your search bar and type “Environment Variable”. Click Environment Variable, under system variables click “Path” and then click “Edit". Then click on “New” and past the path file from program.
 ### Step 3
