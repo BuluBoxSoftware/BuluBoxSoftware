@@ -47,7 +47,7 @@ Turn on the Zebra printer and connect the printer to your computer using the pro
 </p>
 
 ## References
-1. https://github.com/SoftwareBulu/TechDocumentation/tree/main/ZPL
+1. https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Documents/Zebra_programming_Language.md
 2. https://www.zebra.com/us/en/support-downloads/printers/industrial/zt410.html
 
 <h5 align="center">Copyright (C) 2022 by BuluBox. All rights reserved</h5>
