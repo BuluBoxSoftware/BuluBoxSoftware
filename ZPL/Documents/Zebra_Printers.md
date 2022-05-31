@@ -33,7 +33,7 @@ OPERATING SYSTEM: Windows 10 (32 and 64 bit), Windows 11, Windows Server 2016, W
 ## Calebrate
 There are two main methods to calebrating the zebra printer:
 
-1. Automatic: Turning the zebra printer power swicth OFF and then ON again. The swicth is located in the back of every prinetr. Once the printer is ON it will automatedly calibate.
+1. Automatic: Turning the zebra printer power swicth OFF and then ON again. The swicth is located in the back of every prinetr. Once the printer is ON it will automatedly calibrate.
 
 2. Manually: Clicking on the feature senor button located in the home page, then choosing sensor type as transmissive for white printing paper. For all other printing paper change the senor type to best meet its requirements.
 
