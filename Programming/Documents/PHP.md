@@ -11,7 +11,7 @@ PHP (Hypertext Preprocessor) is an open-source, interpreted, and object-oriented
   <li>Platform Independent</li>
   <li>Database Support</li>
   <li>Error Reporting</li>
-  <li>Testing</li>
+  <li>API Testing</li>
   <li>Loosely Typed Language</li>
 </ul>  
 
