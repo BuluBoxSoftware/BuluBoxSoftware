@@ -28,7 +28,7 @@ API testing can be done in a number of programming lanuanges, the following are 
   <li>JSON</li>
   <li>PHP</li>
   <li>Python</li>
-  <li>Navigate Testing</li>
+  <li>GraphQL</li>
 </ul>  
 
 ## References 
