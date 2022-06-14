@@ -10,7 +10,8 @@
 
 **Authorization**:
 
-**Types of API**
+## Types of API
+
 <ul>
   <li>Funtionality Testing</li>
   <li>Load Testing</li>
@@ -19,17 +20,20 @@
   <li>Navigate Testing</li>
 </ul>  
 
-API_Langaunge
+## API Langaunges
+API testing can be done in a number of programming lanuanges, the following are some few pratical languages used for API testing: 
 
--XML
--JSON
--PHP
--Python
--
+<ul>
+  <li>XML</li>
+  <li>JSON</li>
+  <li>PHP</li>
+  <li>Python</li>
+  <li>Navigate Testing</li>
+</ul>  
 
 ## References 
 
-[1] https://www.redhat.com/en/topics/api/what-is-a-rest-api
-[2] https://gorest.co.in/
+[1] https://www.redhat.com/en/topics/api/what-is-a-rest-api <br>
+[2] https://gorest.co.in/ <br>
 
 <h5 align="center"> Copyright (C) 2022 by BuluBox. All rights reserved</h5>
