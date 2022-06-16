@@ -20,7 +20,7 @@
   <li>UPDATE: Modify or update a specific request</li>
 </ul>  
 
-**Response Codes**: 
+**Response Codes** 
 
 200: OK. Everything worked as expected.<br>
 201: A resource was successfully created in response to a POST request.<br>
