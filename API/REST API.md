@@ -36,7 +36,7 @@
 429: Too many requests. The request was rejected due to rate limiting.<br>
 500: Internal server error. This could be caused by internal program errors.<br>
 
-## Types of API
+**Types of API**
 
 <ul>
   <li>Funtionality Testing</li>
@@ -46,7 +46,7 @@
   <li>Navigate Testing</li>
 </ul>  
 
-## API Langaunges
+**API Langaunges**
 API testing can be done in a number of programming lanuanges, the following are some pratical languages used for API testing: 
 
 <ul>
