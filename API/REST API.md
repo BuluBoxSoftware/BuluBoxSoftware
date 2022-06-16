@@ -10,6 +10,9 @@
 
 **Authorization**: Authorization are used to ensure that client requests access data securely. This can involve authenticating the sender of a request and confirming that they have permission to access or manipulate the relevant data. In some cases Base64 encoding schemes are used in authorization when there is a need to encode binary data that needs to be stored and transferred over media that are designed to deal with ASCII [2].
 
+-------
+**HTTP**:
+
 ## Types of API
 
 <ul>
