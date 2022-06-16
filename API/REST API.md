@@ -46,7 +46,7 @@
   <li>Navigate Testing</li>
 </ul>  
 
-**API Langaunges**
+**API Langaunges**:
 API testing can be done in a number of programming lanuanges, the following are some pratical languages used for API testing: 
 
 <ul>
