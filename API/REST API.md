@@ -10,8 +10,31 @@
 
 **Authorization**: Authorization are used to ensure that client requests access data securely. This can involve authenticating the sender of a request and confirming that they have permission to access or manipulate the relevant data. In some cases Base64 encoding schemes are used in authorization when there is a need to encode binary data that needs to be stored and transferred over media that are designed to deal with ASCII [2].
 
--------
-**HTTP**:
+**HTTP**: Hypertext Transfer Protocol as the communication protocol between the two systems. HTTP expose endpoints as gateways for HTTP requests to have access to a server.The following are the types of http request a user can make:<br>
+
+<ul>
+  <li>GET: Are the most common and widely used methods in APIs and websites. Simply put, the GET method is used to retreive data from a server at the specified resource</li>
+  <li>PUT: Are used to send data to the API to update or create a resource</li>
+  <li>POST: Used to send data to the API server to create or update a resource </li>
+  <li>DELETE: Used to eliminate a resource from the server </li>
+  <li>UPDATE: Modify or update a specific request</li>
+</ul>  
+
+**Response Codes**: 
+
+200: OK. Everything worked as expected.<br>
+201: A resource was successfully created in response to a POST request.<br>
+204: The request was handled successfully and the response contains no body content (DELETE request).<br>
+304: The resource was not modified. You can use the cached version.<br>
+400: Bad request. This could be caused by various actions by the user, such as providing invalid JSON data in the request body etc.<br>
+401: Authentication failed.<br>
+403: The authenticated user is not allowed to access the specified API endpoint.<br>
+404: The requested resource does not exist.<br>
+405: Method not allowed. Please check the Allow header for the allowed HTTP methods.<br>
+415: Unsupported media type. The requested content type or version number is invalid.<br>
+422: Data validation failed (in response to a POST request, for example). Please check the response body for detailed error messages.<br>
+429: Too many requests. The request was rejected due to rate limiting.<br>
+500: Internal server error. This could be caused by internal program errors.<br>
 
 ## Types of API
 
@@ -24,7 +47,7 @@
 </ul>  
 
 ## API Langaunges
-API testing can be done in a number of programming lanuanges, the following are some few pratical languages used for API testing: 
+API testing can be done in a number of programming lanuanges, the following are some pratical languages used for API testing: 
 
 <ul>
   <li>XML</li>
