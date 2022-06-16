@@ -10,7 +10,7 @@
 
 **Authorization**: Authorization are used to ensure that client requests access data securely. This can involve authenticating the sender of a request and confirming that they have permission to access or manipulate the relevant data. In some cases Base64 encoding schemes are used in authorization when there is a need to encode binary data that needs to be stored and transferred over media that are designed to deal with ASCII [2].
 
-**HTTP**: Hypertext Transfer Protocol as the communication protocol between the two systems. HTTP expose endpoints as gateways for HTTP requests to have access to a server.The following are the types of http request a user can make:<br>
+**HTTP**: Hypertext Transfer Protocol as the communication protocol between the two systems. HTTP expose endpoints as gateways for HTTP requests to have access to a server.The following are the types of http request a user can make [3]:<br>
 
 <ul>
   <li>GET: Are the most common and widely used methods in APIs and websites. Simply put, the GET method is used to retreive data from a server at the specified resource</li>
@@ -47,7 +47,7 @@
 </ul>  
 
 **API Langaunges**:
-API testing can be done in a number of programming lanuanges, the following are some pratical languages used for API testing: 
+API testing can be done in a number of programming lanuanges, the following are some pratical languages used for API testing [4]: 
 
 <ul>
   <li>XML</li>
@@ -61,6 +61,8 @@ API testing can be done in a number of programming lanuanges, the following are 
 
 [1] https://www.redhat.com/en/topics/api/what-is-a-rest-api <br>
 [2]https://www.base64encode.org/
-[3] https://gorest.co.in/ <br>
+[3]
+[4]
+[5] https://gorest.co.in/ <br>
 
 <h5 align="center"> Copyright (C) 2022 by BuluBox. All rights reserved</h5>
