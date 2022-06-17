@@ -21,7 +21,7 @@
 </ul>  
 
 <p align="center">
-<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Response%20Code.png>
+<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/API%20Architecture.png>
 </p>
 
 **Response Codes** 
