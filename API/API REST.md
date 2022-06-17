@@ -57,7 +57,7 @@ API testing can be done in a number of programming lanuanges, the following are 
 <img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Response%20Code.png>
 </p>
 
-**Conclusion**: API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications/sytems to communicate and interact with each other. A great testing tool to practice and learn API coomands as well as server testing (requests and response) is the following [5].
+API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications/sytems to communicate and interact with each other. A great testing tool to practice and learn API coomands as well as server testing (requests and response) is the following [5].
 
 ## References
 
