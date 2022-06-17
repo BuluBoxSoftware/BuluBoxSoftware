@@ -2,6 +2,27 @@
 
 **API**: An API is a set of definitions and protocols for building and integrating application software. It’s referred as a connection between an information provider and an information user—establishing the content required from the consumer (the call) and the content required by the producer (the response). API's alllows users to do testing without touching the GUI (Graphical User Interface) or live database of a website. 
 
+**Types of API**
+
+<ul>
+  <li>Funtionality Testing</li>
+  <li>Load Testing</li>
+  <li>Security Testing</li>
+  <li>Penetration Testing</li>
+  <li>Navigate Testing</li>
+</ul>  
+
+**API Langaunges**:
+API testing can be done in a number of programming lanuanges, the following are some pratical languages used for API testing [4]: 
+
+<ul>
+  <li>XML</li>
+  <li>JSON</li>
+  <li>PHP</li>
+  <li>Python</li>
+  <li>GraphQL</li>
+</ul>  
+
 **REST**: REST is a set of architectural constraints, not a protocol or a standard. When a client request is made via a RESTful API, it transfers a representation of the state of the resource to the requester or endpoint. This information, or representation, is delivered in one of several formats via HTTP: JSON (Javascript Object Notation), HTML, XLT, Python, PHP, or plain text. JSON is the most generally popular file format to use because, despite its name, it’s language-agnostic, as well as readable by both humans and machines [1]. 
 
 **Headers**: Are part of the API request and response as they represent the meta-data associated with the API request and response. Headers carry information for:  Request, Response, Body and Authorization.
@@ -44,27 +65,6 @@
 <img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Response%20Code.png>
 </p>
 
-
-**Types of API**
-
-<ul>
-  <li>Funtionality Testing</li>
-  <li>Load Testing</li>
-  <li>Security Testing</li>
-  <li>Penetration Testing</li>
-  <li>Navigate Testing</li>
-</ul>  
-
-**API Langaunges**:
-API testing can be done in a number of programming lanuanges, the following are some pratical languages used for API testing [4]: 
-
-<ul>
-  <li>XML</li>
-  <li>JSON</li>
-  <li>PHP</li>
-  <li>Python</li>
-  <li>GraphQL</li>
-</ul>  
 
 ## References 
 
