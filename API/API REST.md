@@ -2,7 +2,7 @@
 
 **API**: An API is a set of definitions and protocols for building and integrating application software. It’s referred as a connection between an information provider and an information user—establishing the content required from the consumer (the call) and the content required by the producer (the response). API's alllows users to do testing without touching the GUI (Graphical User Interface) or live database of a website. It is important to state that API's are used in a number of applicationes (funtionality testing, load testing, security testsing, penetration testing, navigate testing etc).
 
-**API Langaunges**:
+**Langaunges**:
 API testing can be done in a number of programming lanuanges, the following are some pratical languages used for API testing [4]: 
 
 <ul>
