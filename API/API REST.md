@@ -39,6 +39,10 @@ API testing can be done in a number of programming lanuanges, the following are 
 
 **Response Codes** 
 
+<p align="center">
+<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Response%20Code.png>
+</p>
+
 200: OK. Everything worked as expected.<br>
 201: A resource was successfully created in response to a POST request.<br>
 204: The request was handled successfully and the response contains no body content (DELETE request).<br>
