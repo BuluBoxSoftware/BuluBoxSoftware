@@ -36,6 +36,11 @@
 429: Too many requests. The request was rejected due to rate limiting.<br>
 500: Internal server error. This could be caused by internal program errors.<br>
 
+<p align="center">
+<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/ZPL/Images/ZT410_Industrial_Printer.png>
+</p>
+
+
 **Types of API**
 
 <ul>
