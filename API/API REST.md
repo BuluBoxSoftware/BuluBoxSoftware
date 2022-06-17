@@ -10,8 +10,20 @@
 
 **Authorization**: Authorization are used to ensure that client requests access data securely. This can involve authenticating the sender of a request and confirming that they have permission to access or manipulate the relevant data. In some cases Base64 encoding schemes are used in authorization when there is a need to encode binary data that needs to be stored and transferred over media that are designed to deal with ASCII [2].
 
+**Langaunges**:
+API testing can be done in a number of programming lanuanges, the following are some pratical languages used for API testing [3]: 
+
+<ul>
+  <li>XML</li>
+  <li>JSON</li>
+  <li>PHP</li>
+  <li>Python</li>
+  <li>GraphQL</li>
+</ul>  
+
+
 ----------------------------------
-**HTTP**: Hypertext Transfer Protocol as the communication protocol between the two systems. HTTP expose endpoints as gateways for HTTP requests to have access to a server.The following are the types of http request a user can make [3]:<br>
+**HTTP**: Hypertext Transfer Protocol as the communication protocol between the two systems. HTTP expose endpoints as gateways for HTTP requests to have access to a server.The following are the types of http request a user can make [4]:<br>
 
 <ul>
   <li>GET: Are the most common and widely used methods in APIs and websites. Simply put, the GET method is used to retreive data from a server at the specified resource</li>
@@ -44,17 +56,6 @@
 <p align="center">
 <img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Response%20Code.png>
 </p>
-
-**Langaunges**:
-API testing can be done in a number of programming lanuanges, the following are some pratical languages used for API testing [4]: 
-
-<ul>
-  <li>XML</li>
-  <li>JSON</li>
-  <li>PHP</li>
-  <li>Python</li>
-  <li>GraphQL</li>
-</ul>  
 
 ## References 
 
