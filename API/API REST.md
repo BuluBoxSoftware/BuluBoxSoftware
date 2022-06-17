@@ -59,7 +59,7 @@ API testing can be done in a number of programming lanuanges, the following are 
 
 **Summary**: A great testing tool to practice and learn API testing (requests and response) is the following [5].
 
-**References**
+## References
 
 [1] https://www.redhat.com/en/topics/api/what-is-a-rest-api <br>
 [2] https://www.base64encode.org/<br>
