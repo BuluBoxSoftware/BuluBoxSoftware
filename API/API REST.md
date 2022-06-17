@@ -53,10 +53,6 @@ API testing can be done in a number of programming lanuanges, the following are 
 429: Too many requests. The request was rejected due to rate limiting.<br>
 500: Internal server error. This could be caused by internal program errors.<br>
 
-<p align="center">
-<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Response%20Code.png>
-</p>
-
 ## References 
 
 [1] https://www.redhat.com/en/topics/api/what-is-a-rest-api <br>
