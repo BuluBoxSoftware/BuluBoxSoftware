@@ -39,10 +39,6 @@ API testing can be done in a number of programming lanuanges, the following are 
 
 **Response Codes** 
 
-<p align="center">
-<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Response%20Code.png>
-</p>
-
 200: OK. Everything worked as expected.<br>
 201: A resource was successfully created in response to a POST request.<br>
 204: The request was handled successfully and the response contains no body content (DELETE request).<br>
@@ -56,6 +52,10 @@ API testing can be done in a number of programming lanuanges, the following are 
 422: Data validation failed (in response to a POST request, for example). Please check the response body for detailed error messages.<br>
 429: Too many requests. The request was rejected due to rate limiting.<br>
 500: Internal server error. This could be caused by internal program errors.<br>
+
+<p align="center">
+<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Response%20Code.png>
+</p>
 
 ## References 
 
