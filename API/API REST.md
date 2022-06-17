@@ -20,8 +20,6 @@ API testing can be done in a number of programming lanuanges, the following are 
   <li>Python</li>
   <li>GraphQL</li>
 </ul>  
-
-
 ----------------------------------
 **HTTP**: Hypertext Transfer Protocol as the communication protocol between the two systems. HTTP expose endpoints as gateways for HTTP requests to have access to a server.The following are the types of http request a user can make [4]:<br>
 
@@ -34,7 +32,7 @@ API testing can be done in a number of programming lanuanges, the following are 
 </ul>  
 
 <p align="center">
-<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/API%20Architecture.png>
+<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/API%20Architecture.jpeg>
 </p>
 
 **Response Codes** 
