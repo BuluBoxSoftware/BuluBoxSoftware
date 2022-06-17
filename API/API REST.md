@@ -20,6 +20,10 @@
   <li>UPDATE: Modify or update a specific request</li>
 </ul>  
 
+<p align="center">
+<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Response%20Code.png>
+</p>
+
 **Response Codes** 
 
 200: OK. Everything worked as expected.<br>
