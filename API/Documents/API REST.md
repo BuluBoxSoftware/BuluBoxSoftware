@@ -34,7 +34,7 @@ API testing can be done in a number of programming lanuanges, the following are 
 </ul>  
 
 <p align="center">
-<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/API%20Architecture.png>
+<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Images/API%20Architecture.png>
 </p>
 
 **Response Codes** 
