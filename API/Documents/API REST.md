@@ -54,7 +54,7 @@ API testing can be done in a number of programming lanuanges, the following are 
 500: Internal server error. This could be caused by internal program errors.<br>
 
 <p align="center">
-<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Response%20Code.png>
+<img src=https://github.com/SoftwareBulu/TechDocumentation/blob/main/API/Images/Response%20Code.png>
 </p>
 
 API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications/sytems to communicate and interact with each other. A great testing tool to practice and learn API coomands as well as server testing (requests and response) is the following [5].
